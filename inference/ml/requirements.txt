@@ -1,2 +1,4 @@
+opencv-python>=4.6.0
 ultralytics>=8.1
 bentoml>=1.2.7
+ 
