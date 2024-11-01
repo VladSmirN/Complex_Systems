@@ -5,7 +5,7 @@ import os
 import typing as t
 from pathlib import Path
 import urllib.request
-import gdown
+ 
  
 import bentoml
 from bentoml.validators import ContentType
