@@ -26,7 +26,7 @@ docker run --rm --gpus all -p 3000:3000 vladsmirn/car_detection:latest
 ## Обучение модели
 Обучалась модель yolo11 
 
-Метрики обучение:
+Метрики обучения:
 ![alt text](https://github.com/VladSmirN/Complex_Systems/blob/master/results.png) 
 
 Код с запуском обучения(в конце)
